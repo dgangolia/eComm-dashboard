@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <h1>E-Comm Project</h1>
-      <Button>Boot Strap </Button>
+      <Button>Boot Strap sumit</Button>
     </div>
   );
 }
